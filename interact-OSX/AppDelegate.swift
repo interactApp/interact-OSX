@@ -37,3 +37,9 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
 }
 
+
+struct AppDelegate_Previews: PreviewProvider {
+    static var previews: some View {
+        Text("Hello, World-sss!")
+    }
+}
